@@ -1,4 +1,4 @@
-# Data-Science-ML
+# Data-Science-ML-Udemy
 
 <img src="/imgs/Data Science.jpeg" alt="DS" title="Data Science">
 
