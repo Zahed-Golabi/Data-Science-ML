@@ -36,7 +36,8 @@ Please note, this is not meant to be a comprehensive of Python or programming in
 - function
 - lambda expressions
 - map and filter
-- methods
+- methods<br><br>
+- [Python Docs](https://www.python.org/)
 ---
 ### 2. Numpy
 - Numpy is a Linear Algebra Library for python, the reason it is so important
@@ -52,6 +53,9 @@ or command prompt and typing:<br><br>
 - Numpy arrays essentially come in two flavors:
     1. vectors 1-d arrays
     2. matrices 2-d arrays
+    
+- [Numpy Docs](https://numpy.org/)
+
 ---
 ### 3. Pandas
 - Pandas is an open source library built on top of Numpy
@@ -76,6 +80,9 @@ or<br>
 - Mergin, Joining and Concatenating
 - Operations
 - Data Input and Output
+
+- [Pandas Docs](https://pandas.pydata.org/)
+
 ---
 ### 4. Matplotlib
 - Matplotlib is the most popular plotting library for Python.
@@ -86,3 +93,8 @@ You'll need to install it with pip or conda at your command line or terminal wit
 ```conda install matplotlib```<br>
 or<br>
 ```pip install matplotlib```
+<br>
+- [Matplotlib Docs](https://matplotlib.org/)
+
+---
+
