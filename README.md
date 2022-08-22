@@ -97,4 +97,13 @@ or<br>
 - [Matplotlib Docs](https://matplotlib.org/)
 
 ---
+### 5. Seaborn
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.<br>
+You'll need to install it with pip or conda at your command line or terminal with:
 
+```conda install seaborn```<br>
+or<br>
+```pip install seaborn```
+<br>
+- [Seaborn Docs](https://seaborn.pydata.org/)
+---
