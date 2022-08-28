@@ -107,3 +107,16 @@ or<br>
 <br>
 - [Seaborn Docs](https://seaborn.pydata.org/)
 ---
+### 6. Plotly
+plotly.py is an interactive, open-source, and browser-based graphing library for Python :sparkles:
+
+Built on top of plotly.js, plotly.py is a high-level, declarative charting library. plotly.js ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
+
+plotly.py is MIT Licensed. Plotly graphs can be viewed in Jupyter notebooks, standalone HTML files, or integrated into Dash applications.<br>
+
+```conda install plotly```<br>
+or<br>
+```pip install plotly```
+<br>
+- [Plotly Docs](https://pypi.org/project/plotly/)
+---
