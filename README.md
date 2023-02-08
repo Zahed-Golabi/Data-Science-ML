@@ -135,29 +135,5 @@ In this section we'll be implementing all Machine Learning algorithms
 - Support Vector Machines
 - Principle Component Analysis
 
-- [Scikit-learn Docs](### 3. Pandas
-- Pandas is an open source library built on top of Numpy
-- It allows for fast analysis and data cleaning and preparation
-- It excels in performance and productivity
-- It also has built-in visualizaion features
-- It can work with data from a wide variety of sources<br>
-
-You'll need to install pandas by going to your command line
-or terminal and using either:<br>
-
-```conda install pandas```<br>
-or<br>
-```pip install pandas```
-
-<h4> Throughout this Tutorial: </h4>
-
-- Series
-- DataFrames
-- Missing Data
-- GroupBy
-- Mergin, Joining and Concatenating
-- Operations
-- Data Input and Output
-
-- [Pandas Docs](https://scikit-learn.org/stable/)
+- [Scikit-learn Docs](https://scikit-learn.org/stable/)
 
