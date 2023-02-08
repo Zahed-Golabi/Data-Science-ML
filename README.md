@@ -13,6 +13,7 @@ In This Tutorials You will learn all about Data Sciecne and Machine Learning.
 4. Matplotlib
 5. Seaborn
 6. Plotly
+7. Machine Learning Algorithms
 ---
 ### 1. Python
 Please note, this is not meant to be a comprehensive of Python or programming in general.<br>
