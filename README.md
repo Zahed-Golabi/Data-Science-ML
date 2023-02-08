@@ -121,7 +121,7 @@ or<br>
 - [Plotly Docs](https://pypi.org/project/plotly/)
 
 ---
-### 3. Machine Learning Algorithms
+### 7. Machine Learning Algorithms
 In this section we'll be implementing all Machine Learning algorithms
 
 <h4> Throughout this Tutorial: </h4>
@@ -136,4 +136,4 @@ In this section we'll be implementing all Machine Learning algorithms
 - Principle Component Analysis
 
 - [Scikit-learn Docs](https://scikit-learn.org/stable/)
-
+---
