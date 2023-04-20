@@ -5,7 +5,7 @@
 ---
 In This Tutorials You will learn all about Data Sciecne and Machine Learning.
 
-## Table of Contexts
+## Table of Contents
 
 1. Python
 2. Numpy
